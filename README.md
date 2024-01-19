@@ -1,3 +1,4 @@
 # EDA(Exploratory Data anaylysis)
-## -Panas
+## -Pandas 
 ## -seaborn
+
